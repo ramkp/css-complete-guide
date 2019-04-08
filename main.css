@@ -43,7 +43,7 @@ h1 {
 
 .main-nav__item {
   display: inline-block;
-  margin: 16px;
+  margin: 0 16px;
 }
 
 .main-nav__item a {
