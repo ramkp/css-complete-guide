@@ -13,6 +13,8 @@ h1 {
 
 #product-overview {
   background: #ff1b68;
+  height: 528px;
+  padding: 10px;
 }
 
 #product-overview h1 {
