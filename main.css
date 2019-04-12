@@ -84,6 +84,21 @@ h1 {
   font-family: 'Anton', sans-serif;
 }
 
+#plans {
+  text-align: center;
+}
+
 .section-title {
   color: #2ddf5c;
+  text-align: center;
+}
+
+.plan {
+  display: inline-block;
+  background: #d5ffdc;
+  text-align: center;
+  vertical-align: middle;
+  width: 30%;
+  margin: 8px;
+  padding: 16px;
 }
