@@ -142,3 +142,24 @@ h1 {
 .plan__feature {
   margin: 8px 0;
 }
+
+.button {
+  background: #0e4f1f;
+  color: white;
+  font: inherit;
+  font-weight: bold;
+  padding: 8px;
+  border: 1.5px solid #0e4f1f;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.button:hover,
+.button:active {
+  background: white;
+  color: #0e4f1f;
+}
+
+.button:focus {
+  outline: none;
+}
